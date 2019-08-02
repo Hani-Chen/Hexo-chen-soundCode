@@ -1,8 +1,9 @@
 ---
 title: case1
-date: 2019-07-30 13:14:52
 tags: web前端开发-案例实现
 categories: web前端开发
+abbrlink: 43968
+date: 2019-07-30 13:14:52
 ---
 
 {% raw %}

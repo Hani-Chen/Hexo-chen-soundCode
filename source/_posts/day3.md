@@ -1,8 +1,9 @@
 ---
 title: AE 导出json动画文件 开发渲染动画
-date: 2019-08-01 21:30:30
 tags: web前端开发-文章介绍
 categories: web前端开发
+abbrlink: 44359
+date: 2019-08-01 21:30:30
 ---
 
 首先我们需要动画师输出给我们一个 JSON 动画文件

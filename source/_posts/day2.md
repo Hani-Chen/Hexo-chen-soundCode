@@ -1,8 +1,9 @@
 ---
 title: 关于 CSS margin，你需要知道的一切
-date: 2019-07-31 13:14:52
 tags: web前端开发-文章介绍
 categories: web前端开发
+abbrlink: 27168
+date: 2019-07-31 13:14:52
 ---
 
 原文：[https://juejin.im/post/5d40dc46e51d4561cf15df4a](https://juejin.im/post/5d40dc46e51d4561cf15df4a)
