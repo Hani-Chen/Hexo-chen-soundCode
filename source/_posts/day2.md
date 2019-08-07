@@ -1,8 +1,8 @@
 ---
 title: 关于 CSS margin，你需要知道的一切
-tags: web前端开发-文章介绍
-categories: web前端开发
-abbrlink: 27168
+tags: web前端
+categories: web前端 - 文章介绍
+abbrlink: 27170
 date: 2019-07-31 13:14:52
 ---
 
@@ -258,7 +258,7 @@ border-radius: .5em;
 
 这是因为子节点上的 margin 会随着父节点上的任何一边的 margin 相互重叠，从而最终位于父节点的外部。如果使用 DevTools 检查第一个子元素，就可以看到这一点，显示的黄色区域就是是 margin。
 
-![](https://user-gold-cdn.xitu.io/2019/7/31/16c455d87d0cd57a?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![](/images/test1.png)
 
 # 仅块元素 margin 重叠
 
