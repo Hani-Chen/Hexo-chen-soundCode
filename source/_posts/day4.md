@@ -20,7 +20,7 @@ date: 2019-08-06 21:30:30
 <button class="stop">暂停</button>
 
 <!-- 引入howler -->
-<script src="/js/howler.min.js"></script>
+<script src="/js/howler.min.js" type='text/javascripnt'></script>
 
 ```
 
@@ -72,7 +72,7 @@ play.onclick = function() {
 <button class="stop">暂停</button>
 
 <!-- 引入howler -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.1.1/howler.min.js"></script>
+<script src="/js/howler.min.js" type='text/javascripnt'></script>
 <script>
 var viewSound = new Howl({
   /* 音频路径 */

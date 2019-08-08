@@ -1,8 +1,9 @@
 ---
-title: day5
+title: vue v-for 后 图片不显示解决方法
 abbrlink: 27054
 date: 2019-08-07 16:59:19
-tags:
+tags: web前端
+categories: web前端 - 文章介绍
 ---
 
 ## vue v-for 后 图片不显示解决方法

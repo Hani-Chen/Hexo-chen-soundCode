@@ -25,7 +25,7 @@ html 代码块
 <button class="play">播放</button>
 <button class="pause">暂停</button>
 <!-- 引入lottie.js -->
-<script src="/js/lottie.js"></script>
+<script src="/js/lottie.js" type='text/javascripnt'></script>
 ```
 
 css 代码块
@@ -91,7 +91,7 @@ html,body {width: 100%;height: 100%;}
 <button class="play">播放</button>
 <button class="pause">暂停</button>
 <!-- 引入lottie.js -->
-<script src="/js/lottie.js"></script>
+<script src="/js/lottie.js" type='text/javascripnt'></script>
 <script>
 var icon = document.getElementById('animation')
 lottie.loadAnimation({
@@ -99,7 +99,7 @@ lottie.loadAnimation({
   renderer: 'html', //渲染方式，有"html"、"canvas"和"svg"三种
   loop: true, //循环播放
   autoplay: true, //自动播放
-  path: '/json/01.json' // 动画json的路径
+  path: '/json/03.json' // 动画json的路径
 })
 var stop = document.getElementsByClassName('stop')[0]
 var play = document.getElementsByClassName('play')[0]
