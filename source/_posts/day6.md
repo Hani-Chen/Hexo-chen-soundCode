@@ -3,12 +3,12 @@ title: 博客搭建 hexo框架搭建
 abbrlink: 63785
 date: 2019-08-08 09:00:00
 tags: web前端
-categories: [web前端 - 框架搭建, Node环境配置, Git环境配置]
+categories: [web前端 - 框架搭建, web前端 - 环境配置]
 ---
 
 # Hexo 博客搭建图文教程
 
-## 首先我们要配置 **Node.js** 环境
+## **Node.js** 环境配置 
 
 我们可以去 [**官网**](https://nodejs.org/en/) 直接下载相对应的 node 版本
 
@@ -38,7 +38,7 @@ npm -v
 **如果结果如下图所示，则说明安装正确，可以进行下一步了，如果不正确，则需要回头检查自己的安装过程。** <br/>
 ![](/images/day6/test.png)
 
-## 第二步我们要配置 **Git** 环境
+## **Git** 环境配置 
 
 同样你也可以去 [**官网**](https://git-scm.com/) 直接下载相对应的 Git 版本
 

@@ -1,7 +1,7 @@
 ---
 title: 音频插件 howler 使用
 tags: web前端
-categories: web前端 - 插件学习
+categories: [web前端 - 插件学习, web前端 - 案例实现]
 abbrlink: 46904
 date: 2019-08-06 21:30:30
 ---
