@@ -2,7 +2,7 @@
 title: 博客搭建 hexo框架搭建
 abbrlink: 63785
 date: 2019-08-08 09:00:00
-tags: web前端
+tags: [web前端, web前端 - 环境配置]
 categories: [web前端 - 框架搭建, web前端 - 环境配置]
 ---
 

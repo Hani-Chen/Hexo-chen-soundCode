@@ -2,8 +2,8 @@
 title: js - 预加载
 abbrlink: 44140
 date: 2019-08-28 09:00:19
-tags: web前端
-categories: web前端 - js组件
+tags: [web前端, web前端 - js]
+categories: [web前端 - 实用组件, 预加载组件]
 ---
 
 # js - 预加载

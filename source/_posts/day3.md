@@ -1,6 +1,6 @@
 ---
 title: 动画插件 lottie 使用
-tags: web前端
+tags: [web前端, web前端 - js]
 categories: [web前端 - 插件学习, web前端 - 案例实现]
 abbrlink: 44360
 date: 2019-08-01 21:30:30

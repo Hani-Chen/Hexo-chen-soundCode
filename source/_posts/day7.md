@@ -2,8 +2,8 @@
 title: js - ajax获取接口数据
 abbrlink: 43052
 date: 2019-08-26 18:10:58
-tags: web前端
-categories: web前端 - js组件
+tags: [web前端, web前端 - js]
+categories: [web前端 - 实用组件, 接口获取组件]
 ---
 ## 简单明了直接码代码！！！
 
